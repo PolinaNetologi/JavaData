@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Data {
+public class Data {
+    public int day;
+    public int month;
+    public int year;
+
 }
